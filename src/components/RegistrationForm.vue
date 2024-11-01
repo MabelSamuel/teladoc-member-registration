@@ -27,7 +27,7 @@ const formValues = ref({
         <p class="text-[#181919] mb-8">Enter your information just as it appears on your health insurance card or pay stub.</p>
 
         <p class="text-sm">*Required</p>
-        <form>
+        <form @submit.prevent="handleSubmit">
             <div class="flex flex-col my-8">
                 <label for="firstName" class="font-medium text-lg">First Name*</label>
                 <input type="text" id="firstName" v-model="formValues.firstName" class="border border-b border-black h-11 rounded-md p-4 focus:border-bluee focus:outline-bluee">
