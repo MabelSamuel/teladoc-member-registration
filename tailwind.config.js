@@ -7,7 +7,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        'lilac': '#3E267F'
+        'lilac': '#3E267F',
+        'bluee': '#0078BC'
+
       },
       fontFamily: {
         poppins: ['Poppins', 'sans-serif']

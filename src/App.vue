@@ -6,9 +6,7 @@ import Footerr from './components/Footerr.vue';
 
 <template>
   <div>
-  <header>
     <NavBar />
-  </header>
   <main class="flex justify-center">
     <RegistrationForm/>
   </main>
