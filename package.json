@@ -2,7 +2,7 @@
   "name": "member-registration-form",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://mabelsamuel.github.io/teladoc-member-registration",
+  "homepage": "https://mabelsamuel.github.io/teladoc-member-registration/",
   "type": "module",
   "scripts": {
     "dev": "vite",
