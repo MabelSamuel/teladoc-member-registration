@@ -12,7 +12,6 @@ import Footerr from './components/Footerr.vue';
   </main>
     <Footerr/>
 </div>
-  
 </template>
 
 
